@@ -21,9 +21,9 @@ CLICK THE IMAGE TO PLAY!
 
 
 ## Contact
-Telegram -> https://t.me/OxiLOL
+Facebook -> https://facebook.com/Mot.Mot.Oyamat
 
-Email -> Oxitheman@gmail.com
+Email -> oyamatmot0812@gmail.com
 
 
 
