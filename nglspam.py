@@ -110,13 +110,13 @@ def handler():
     ▒█░░▀█ ▒█▄▄█ ▒█▄▄█ 　 ▒█▄▄▄█ ▒█░░░ ▒█░▒█ ▒█░░▒█
     """
         + Fore.GREEN
-        + "Made by https://github.com/oxitheman"
-        + "\nStar the repository on github if you like it!"
-        + " If you would like to send random questions or use proxies edit config.json to true."
+        + "guddhist"
+        + "\ngrathegreat"
+        + " mot mot oyamat"
         + Style.RESET_ALL
     )
 
-    username = str(input("Enter username (Along with numbers in their NGL link): "))
+    username = str(input("Enter username: "))
     threadcount = int(input("Enter thread count: "))
     with open("config.json") as config:
         data = json.load(config)
